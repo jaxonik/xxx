@@ -1,0 +1,2 @@
+# markanicz.com
+strona www
